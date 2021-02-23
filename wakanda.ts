@@ -121,6 +121,76 @@ export function displayWakandaText (text: string) {
         # . # . .
         # . . . .
         # . . . .
+        `),
+        "Q": images.createImage(`
+        # . # . # .
+        # . # . # .
+        # # # # # .
+        # . # . # .
+        # . # . # .
+        `),
+        "R": images.createImage(`
+        # . # . # .
+        . # # # . .
+        . . # . . .
+        . . # . . .
+        . . # . . .
+        `),
+        "S": images.createImage(`
+        . # # # # .
+        # . . . . .
+        # . # # . .
+        # . . . . .
+        . # # # # .
+        `),
+        "T": images.createImage(`
+        # # . # . . . .
+        . . # . # . . .
+        . # . . . # . .
+        # . . . . . # .
+        # . . . . . # .
+        `),
+        "U": images.createImage(`
+        . # . # . .
+        . . # . . .
+        . # # # . .
+        . # . # . .
+        . # # # . .
+        `),
+        "V": images.createImage(`
+        # # . # # .
+        # # . # # .
+        # # . # # .
+        # # # # # .
+        # # # # # .
+        `),
+        "W": images.createImage(`
+        . # # # # # .
+        # . # . . # .
+        . . # . . # .
+        . . # . . # .
+        . . # . . # .
+        `),
+        "X": images.createImage(`
+        # . . . . .
+        # . # # . .
+        # # . # . .
+        # . . # . .
+        # . . # . .
+        `),
+        "Y": images.createImage(`
+        . # . . . .
+        . . # . . .
+        # # # # # .
+        . . # . . .
+        . # . . . .
+        `),
+        "Z": images.createImage(`
+        . . # . .
+        # . # . .
+        # # # . .
+        # . # . .
+        . . # . .
         `)
     }
     let imgs = []
