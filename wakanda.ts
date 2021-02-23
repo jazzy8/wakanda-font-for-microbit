@@ -191,6 +191,34 @@ export function displayWakandaText (text: string) {
         # # # . .
         # . # . .
         . . # . .
+        `),
+        "!": images.createImage(`
+        # .
+        # .
+        # .
+        . .
+        # .
+        `),
+        "?": images.createImage(`
+        . # # # . .
+        # . . . # .
+        . . # # # .
+        . . . . . .
+        . . # . . .
+        `),
+        ".": images.createImage(`
+        . .
+        . .
+        . .
+        . .
+        # .
+        `),
+        "&": images.createImage(`
+        . . # . . .
+        . # # # . .
+        # . # . . .
+        # . . # # .
+        . # # # . .
         `)
     }
     let imgs = []
