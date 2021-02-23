@@ -1,4 +1,6 @@
-//% color=#000000 icon="https://img.pngio.com/type-wakanda-is-a-wakanda-text-translator-that-turns-your-english-wakanda-png-200_295.png"
+//% color=#0000ff icon="\00f59c"
+namespace Awesome {
+
 namespace Wakanda {
 
 //% block
@@ -492,4 +494,5 @@ export function displayWakandaText (text: string) {
     `).scrollImage(1, 200)
 }
 
+}
 }
