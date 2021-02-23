@@ -103,9 +103,9 @@ export function displayWakandaText (text: string) {
         `),
         "N": images.createImage(`
         . # . # . .
-        . # . # . .
-        . # . # . .
         # # . # # .
+        . # . # . .
+        . # . # . .
         . # . # . .
         `),
         "O": images.createImage(`
@@ -172,11 +172,11 @@ export function displayWakandaText (text: string) {
         . . # . . # .
         `),
         "X": images.createImage(`
-        # . . . . .
-        # . # # . .
-        # # . # . .
-        # . . # . .
-        # . . # . .
+        # . . . .
+        # . # # .
+        # # . # .
+        # . . # .
+        # . . # .
         `),
         "Y": images.createImage(`
         . # . . . .
@@ -219,6 +219,188 @@ export function displayWakandaText (text: string) {
         # . # . . .
         # . . # # .
         . # # # . .
+        `),
+        "a": images.createImage(`
+        # . . # .
+        # . . # .
+        # # # # .
+        . . . # .
+        . . . # .
+        `),
+        "b": images.createImage(`
+        # . . . .
+        # . . . .
+        # . # # .
+        # . # . .
+        # . # . .
+        `),
+        "c": images.createImage(`
+        # . . . .
+        # . . . .
+        # # # # .
+        # . . # .
+        # . . # .
+        `),
+        "d": images.createImage(`
+        # # # .
+        . . # .
+        # . # .
+        . . # .
+        # # # .
+        `),
+        "e": images.createImage(`
+        # . . . # .
+        # . . . # .
+        . # # # . .
+        # . . . # .
+        # # # # # .
+        `),
+        "f": images.createImage(`
+        . # . .
+        # # # .
+        # . # .
+        # # # .
+        . # . .
+        `),
+        "g": images.createImage(`
+        # # # # # .
+        # . . . . .
+        # # # . . .
+        # . . . . .
+        # # # . . .
+        `),
+        "h": images.createImage(`
+        . # . .
+        . # . .
+        # # # .
+        # # # .
+        # # # .
+        `),
+        "i": images.createImage(`
+        # . . . . .
+        . # . . . .
+        . . # . . .
+        . # . # . .
+        # . . . # .
+        `),
+        "j": images.createImage(`
+        # . . .
+        # . . .
+        # . . .
+        # # . .
+        # . # .
+        `),
+        "k": images.createImage(`
+        # . . .
+        . # . .
+        . . # .
+        . # . .
+        # . . .
+        `),
+        "l": images.createImage(`
+        # # # # .
+        # # # # .
+        . . . # .
+        # # # # .
+        # # # # .
+        `),
+        "m": images.createImage(`
+        . # # .
+        # . # .
+        . # # .
+        # . # .
+        . # # .
+        `),
+        "n": images.createImage(`
+        . # . # . .
+        . # . # . .
+        . # . # . .
+        # # . # # .
+        . # . # . .
+        `),
+        "o": images.createImage(`
+        # . . . . .
+        # # # # # .
+        . . . . . .
+        # # # # # .
+        . . . . # .
+        `),
+        "p": images.createImage(`
+        # . . . .
+        # . . . .
+        # . # . .
+        # . . . .
+        # # # # .
+        `),
+        "q": images.createImage(`
+        # . . . # .
+        # . . . # .
+        # # # # # .
+        # . . . # .
+        # . . . # .
+        `),
+        "r": images.createImage(`
+        # . . . # .
+        . # # # . .
+        . . # . . .
+        . . # . . .
+        . . # . . .
+        `),
+        "s": images.createImage(`
+        . # # # .
+        # . . . .
+        # . . . .
+        # . . . .
+        . # # # .
+        `),
+        "t": images.createImage(`
+        . . . # . . . .
+        . . # . # . . .
+        . # . . . # . .
+        # . . . . . # .
+        # . . . . . # .
+        `),
+        "u": images.createImage(`
+        . # . . . .
+        . . # . . .
+        . # # # . .
+        . # . # . .
+        . # # # . .
+        `),
+        "v": images.createImage(`
+        # . # #
+        # . # #
+        # . # #
+        # # # #
+        # # # #
+        `),
+        "w": images.createImage(`
+        . # . .
+        # . . .
+        # # # .
+        # . # .
+        # . # .
+        `),
+        "x": images.createImage(`
+        # . . . .
+        # . # # .
+        # # . # .
+        . . . # .
+        . . . # .
+        `),
+        "y": images.createImage(`
+        . # . . . .
+        . . # . . .
+        # # # # # .
+        . . . . . .
+        . # . . . .
+        `),
+        "z": images.createImage(`
+        . . # . .
+        # . # . .
+        # . # . .
+        # # # . .
+        . . # . .
         `)
     }
     let imgs = []
