@@ -3,6 +3,13 @@ namespace Wakanda {
 //% block
 export function displayWakandaText (text: string) {
     let letters = <{[name: string]: Image}> {
+        " ": images.createImage(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `),
         "A": images.createImage(`
         # . . . # .
         # . # . # .
@@ -107,6 +114,13 @@ export function displayWakandaText (text: string) {
         . . . . .
         # # # # .
         # . . # .
+        `),
+        "P": images.createImage(`
+        # # # # .
+        # . . . .
+        # . # . .
+        # . . . .
+        # . . . .
         `)
     }
     let imgs = []
