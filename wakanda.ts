@@ -1,5 +1,5 @@
 //% color=#0000ff icon="\00f59c"
-namespace Awesome {
+//namespace Awesome {
 
 namespace Wakanda {
 
@@ -495,4 +495,4 @@ export function displayWakandaText (text: string) {
 }
 
 }
-}
+//}
