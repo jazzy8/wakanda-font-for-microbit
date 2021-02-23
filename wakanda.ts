@@ -1,3 +1,4 @@
+//% color=#00000 icon="https://img.pngio.com/type-wakanda-is-a-wakanda-text-translator-that-turns-your-english-wakanda-png-200_295.png"
 namespace Wakanda {
 
 //% block
